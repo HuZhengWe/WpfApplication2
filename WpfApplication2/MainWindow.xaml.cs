@@ -20,8 +20,15 @@ namespace WpfApplication2
     /// </summary>
     public partial class MainWindow : Window
     {
+        /// <summary>
+        /// /b duhsbv udgs gu
+        /// </summary>
         public MainWindow()
         {
+
+
+
+
             InitializeComponent();
         }
     }
